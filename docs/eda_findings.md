@@ -646,3 +646,15 @@ Detail di `docs/v14_thinning_breakthrough_2026-10-08.md`. Offset val-public dije
 oracle klaster x tanggal adalah artefak; informasi yang hilang = lintasan film setelah D3. Thinning (pi 0,35-0,5)
 mereproduksi label proxy periode uji, komposisi uji, dan 75% pergeseran pencopotan; lookup D4-D10 di dunia thinned
 0,380 (latih mentah) -> 0,355 (latih thinned).
+
+## 120-127: periode libur (9 Oktober 2026)
+
+Ringkasan dan keputusan ada di `docs/v19_holiday_analysis_2026-10-09.md`. Diadopsi di v19:
+- blok anomali 1-16 Jun dibuang (126);
+- rho Lebaran terukur 0,92 dengan level nasional dikonfirmasi lewat kapasitas kursi (121);
+- rasio klaster Lebaran = gabungan pola 2025 dan kapasitas 2026 (124, 127).
+
+Ditolak:
+- koreksi target hari libur (125: optimum 0,95, out-of-sample memburuk);
+- profil hari masa sekolah (123: efek orde dua);
+- alokasi okupansi antar film (122: slope antar film 0).

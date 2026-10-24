@@ -51,3 +51,10 @@ Untuk ZIP final yang aman dari semua tafsiran aturan: LightGBM saja (v11) atau T
   User belum menjawab.
 - Pemilihan 2 submisi final di Kaggle, dan ZIP final (nama tim, notebook, bobot ≤ 200 MB).
 - Isi nama tim dan anggota di cell banner notebook: masih placeholder `[Nama Tim]`.
+
+## Pembaruan 9 Oktober 2026
+
+- Terbaik public: v10a teman **0,38111** (= v8 + `LEB_RHO` 0,92 yang diukur dari train). v15 0,39918, v18 tidak disubmit.
+- v19 siap run (`notebooks/build_v19.py`): resep v18 + blok anomali Juni 1-16 dibuang + rho terukur + rasio klaster Lebaran
+  gabungan kapasitas. Detail dan semua angka: `docs/v19_holiday_analysis_2026-10-09.md`, script `eda/120`-`eda/127`.
+- Pertanyaan terbuka ke teman: sumber angka `truth` di `eda/geografi_mudik/mudik.py` (label Lebaran 2026 tidak boleh dipakai).
